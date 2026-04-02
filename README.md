@@ -18,3 +18,8 @@ This Python script automatically organizes files in a folder based on their exte
 
 ## Author
 Safwan
+
+## Downloads
+
+- [Download ZIP](./source%20code.zip)
+- [Download TAR](./source%20code.tar.gz)
