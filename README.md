@@ -21,5 +21,4 @@ Safwan
 
 ## Downloads
 
-- [Download ZIP](./source%20code.zip)
-- [Download TAR](./source%20code.tar.gz)
+- [Latest Release](https://github.com/USERNAME/REPO/releases/latest)
