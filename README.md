@@ -21,4 +21,4 @@ Safwan
 
 ## Downloads
 
-- [Latest Release](https://github.com/USERNAME/REPO/releases/latest)
+- [Latest Release]([https://github.com/USERNAME/REPO/releases/latest](https://github.com/safwan-zz/file-organizer-python/releases/tag/alpha))
