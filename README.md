@@ -19,6 +19,3 @@ This Python script automatically organizes files in a folder based on their exte
 ## Author
 Safwan
 
-## Downloads
-
-- [Latest Release]([https://github.com/USERNAME/REPO/releases/latest](https://github.com/safwan-zz/file-organizer-python/releases/tag/alpha))
