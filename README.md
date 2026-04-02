@@ -8,7 +8,7 @@ This Python script automatically organizes files in a folder based on their exte
 - Handles files without extensions
 
 ## How to Use
-1. Run `main.py` or `main.exe`
+1. Run `file_organizer.exe`
 2. Enter the folder path
 3. Files are automatically sorted
 
