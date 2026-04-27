@@ -1,5 +1,6 @@
 import os
 import shutil
+import time
 
 # Getting the path
 path = input('Enter your folder path = ')
@@ -7,10 +8,12 @@ path = input('Enter your folder path = ')
 if not os.path.exists(path):
     print('Invalid path')
     exit()
+time.sleep(10)
 
 if not os.path.isdir(path):
     print('Not a folder')
     exit()
+time.sleep(10)
 
 files = os.listdir(path)
 
@@ -36,3 +39,4 @@ for file in files:
     shutil.move(src_file, dest_file)
 
 print("Files have been organized by extension.")
+time.sleep(10)
